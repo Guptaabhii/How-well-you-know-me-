@@ -1,0 +1,1 @@
+This is a personalished fun quiz regarding to me. It contain question related to me.It is an CLI app.
